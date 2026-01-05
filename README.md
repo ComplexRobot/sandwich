@@ -1,8 +1,7 @@
 # Sandwich Lookup - Pokémon Scarlet/Violet
-~~psandwich.io~~
 [complexrobot.github.io/sandwich/](https://complexrobot.github.io/sandwich/)
 
-![](/sandwich/screenshots/example.png)
+![](/screenshots/example.png)
 
 ### Development Info.
 This is an input validator and data display GUI written in HTML, Javascript and CSS and hosted on github.
